@@ -1,0 +1,3 @@
+This Python script applies agglomerative clustering, a hierarchical clustering technique, to a given dataset. It imports essential modules, including `sys` for handling command-line arguments, `Data` for dataset processing, and `AgglomerativeClustering` for clustering. 
+In the `main` function, it loads the dataset, creates data samples, and computes a distance matrix. It then performs agglomerative clustering using both "SingleLink" and "CompleteLink" linkage methods, producing clusters with 7 members each.
+The script prints the clustering results for evaluation. Overall, this script offers a straightforward way to conduct hierarchical clustering on datasets, facilitating data analysis and pattern recognition tasks.
